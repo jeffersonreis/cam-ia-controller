@@ -3,6 +3,8 @@
 
 Sistema completo de controle de acesso veicular utilizando visão computacional, inteligência artificial e integração com backend.
 
+![Demo Pipeline](https://raw.githubusercontent.com/jeffersonreis/cam-ia-controller/main/public/leitura.jpg)
+
 ---
 
 ## ✨ Funcionalidades
